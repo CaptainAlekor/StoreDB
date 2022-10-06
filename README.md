@@ -1,2 +1,2 @@
 # StoreDB
-A repository for DB labs
+Репозиторий для лабораторных работ по МДиСУБД
